@@ -1,15 +1,19 @@
-# OpenCV Face And Eye Detection In Flask Web Framework
+# 👁️ FaceVision
 
-This project is a real-time face and eye detection web application built using Python, OpenCV, and Flask. The application captures video from your webcam, detects faces and eyes using Haar Cascade classifiers, and streams the annotated video to a web page.
+A real-time **face and eye detection** web application using **Python**, **OpenCV**, and the **Flask** web framework. The application captures webcam video, detects faces and eyes using Haar Cascade classifiers, and streams the annotated video directly to a web browser.
 
-## Features
+---
 
-- Real-time face detection
-- Eye detection within detected faces
-- JPG video stream served via Flask
-- Simple HTML interface for displaying the video
+## 🚀 Features
 
-## Installation
+- 👤 Real-time **face detection**
+- 👁️ Eye detection **within detected faces**
+- 🖥️ Live **MJPEG video stream** served via Flask
+- 🌐 Simple and responsive HTML interface
+
+---
+
+## 🛠️ Installation
 
 1. **Clone the repository** or download the files:
 
@@ -38,7 +42,9 @@ This project is a real-time face and eye detection web application built using P
 
     You can download them from the [OpenCV GitHub repository](https://github.com/opencv/opencv/tree/master/data/haarcascades).
 
-## Usage
+---
+
+## ▶️ Usage
 
 1. **Run the Flask application:**
 
@@ -52,6 +58,8 @@ This project is a real-time face and eye detection web application built using P
     http://127.0.0.1:5000/
     ```
 
-## Reference
+---
 
-[Reference](https://github.com/krishnaik06/Flask-Web-Framework/tree/main/Tutorial%207)
+## 📚 Reference
+
+Inspired by [Krishnaik’s Flask Web Framework Tutorial](https://github.com/krishnaik06/Flask-Web-Framework/tree/main/Tutorial%207).
